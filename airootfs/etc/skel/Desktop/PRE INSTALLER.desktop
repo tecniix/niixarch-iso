@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=1. PRE INSTALLER
+Comment=Application Menu
+Exec=pkexec chown root:root /etc/sudoers.d -R &>/dev/null
+Icon=/usr/share/icons/Numix-Square/48@2x/apps/ardour.svg
+Type=Application
+Categories=GNOME;GTK;Utility;
+StartupNotify=false
+NoDisplay=true
+Terminal=false
+GenericName=Fix sudo issues
+

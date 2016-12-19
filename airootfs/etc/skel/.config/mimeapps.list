@@ -1,0 +1,20 @@
+[Added Associations]
+text/plain=mousepad.desktop;
+application/pdf=evince.desktop;
+application/xml=mousepad.desktop;
+text/x-scheme=mousepad.desktop;
+application/x-desktop=mousepad.desktop;
+x-scheme-handler/http=exo-web-browser.desktop
+x-scheme-handler/https=exo-web-browser.desktop
+application/x-ms-dos-executable=org.gnome.FileRoller.desktop;
+application/x-wine-extension-ini=mousepad.desktop;
+audio/x-wav=vlc.desktop;
+image/png=ristretto.desktop;
+image/jpeg=ristretto.desktop;
+application/x-shellscript=mousepad.desktop;
+text/x-matlab=mousepad.desktop;
+text/css=mousepad.desktop;
+
+[Default Applications]
+image/png=ristretto.desktop
+image/jpeg=ristretto.desktop

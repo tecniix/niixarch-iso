@@ -1,0 +1,4 @@
+IN TERMINAL RUN THESE COMMANDS
+
+sudo haveged -w 1024
+sudo pacman-key --init && sudo pacman-key --populate archlinux

@@ -1,0 +1,5 @@
+RUN COMMANDS IN TERMINAL
+
+sudo pacman -Rns virtualbox-guest-utils
+sudo pacman -Rns virtualbox-guest-modules-arch
+sudo rm /etc/modules-load.d/virtualbox.conf

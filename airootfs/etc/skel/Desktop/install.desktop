@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=2. INSTALLER
+Comment=Application Menu
+Exec=sudo xfce4-terminal -e /abif-master/abif
+Icon=/usr/share/icons/Numix-Square/48@2x/apps/ardour.svg
+Type=Application
+Categories=GNOME;GTK;Utility;
+StartupNotify=false
+NoDisplay=true
+Terminal=false
+GenericName=Insall niixarch to hdd
